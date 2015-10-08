@@ -1,0 +1,1 @@
+pacote contendo cabeçalho padrão para aplicações
